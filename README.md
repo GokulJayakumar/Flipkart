@@ -10,7 +10,14 @@ changes in category branch
 changes made in main branch
 
 the braches are created
+
+at filters 2merge for conflit
+
+
 at cat 2nd edit
 
+
 category 2 tab coonflict tab2
+
+
 
